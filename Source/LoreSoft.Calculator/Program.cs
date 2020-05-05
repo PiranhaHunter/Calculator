@@ -24,7 +24,7 @@ namespace LoreSoft.Calculator
             }
             else
             {
-                Application.Run(new CalculatorForm());
+                Application.Run(new CalculatorForm())
             }
         }
 
